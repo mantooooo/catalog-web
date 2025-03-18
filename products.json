@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Iphone 14 Pro Max",
+        "price": 1.339,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Laptop Asus Tuf A15",
+        "price": 949.77,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Asus ROG Zephyrus G14",
+        "price": 1.826,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Lenovo Legion Slim 7i ",
+        "price": 2.124,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Lenovo Gaming LOQ 15 ",
+        "price": 1.719,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" MSI Katana 15 B13V",
+        "price": 1.089,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" IQOO 13",
+        "price": 636,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Google Pixel 9 Pro",
+        "price": 1.699,
+        "image": "image/8.png"
+    }
+
+]
