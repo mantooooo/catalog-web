@@ -4,6 +4,7 @@ let iconCart = document.querySelector('.icon-cart');
 let iconCartSpan = document.querySelector('.icon-cart span');
 let body = document.querySelector('body');
 let closeCart = document.querySelector('.close');
+let checkOutButton = document.querySelector('.checkOut'); // Tambahkan ini
 let products = [];
 let cart = [];
 
@@ -143,3 +144,13 @@ const initApp = () => {
 };
 
 initApp();
+
+// Tambahkan event listener untuk tombol checkout
+checkOutButton.addEventListener('click', () => {
+    if (cart.length === 0) {
+        alert("Silahkan pilih barang belanjaan");
+    } else {
+        // Lakukan proses checkout di sini
+        alert("Checkout berhasil!");
+    }
+});
